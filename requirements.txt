@@ -1,0 +1,13 @@
+# Core
+pyspark==3.4.4
+pandas==2.2.3
+numpy==2.2.6
+faker==37.4.0
+pyarrow==21.0.0
+
+# Testing
+pytest==8.4.1
+
+# Development tools
+black==25.1.0
+flake8==7.3.0

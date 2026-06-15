@@ -1,0 +1,433 @@
+customer_id,customer_name,email,country,customer_tier,signup_date
+C00001,Donald Walker,rhodespatricia@example.org,UA,gold,12/12/2018
+C00002,Brandon Hall,hoffmanjennifer@example.net,ST,BRONZE,2021-08-03
+C00003,Kevin Pacheco,blakeerik@example.com,LV,Bronze,27/07/2021
+C00004,Tyler Rogers,jamesmichael@example.com,UY,bronze,13/05/2020
+C00005,Monica Herrera,smiller@example.net,VN,gold,2020-04-01
+C00006,Michele Williams,kendragalloway@example.org,BZ,Gold ,28/01/2021
+C00007,Mark Diaz,michael41@example.net,ZW,bronze,27/03/2021
+C00008,Danielle Ford,veronica83@example.net,LR,Bronze,16/06/2019
+C00009,Andrew Stewart,carl95@example.org,TD,bronze,2018-06-23
+C00010,Thomas Ellis,donald88@example.com,AE,Gold,2022-04-01
+C00011,Kevin Cox,williamdavis@example.org,CG,Gold ,2022-12-22
+C00012,Rebecca Henderson,cruzcaitlin@example.com,SM,Bronze ,20/04/2019
+C00013,Shannon Smith,maldonadoamanda@example.com,BA,GOLD,21/02/2020
+C00014,Jeffrey Chavez,teresa28@example.org,YE,Bronze,22/11/2020
+C00015,Katie Gonzalez,kathryn88@example.org,US,Gold ,2020-07-16
+C00016,Brian Cox DVM,john39@example.org,BS,SILVER,2020-10-04
+C00017,Vanessa Patel,davidalvarez@example.net,DM,Bronze,18/02/2022
+C00018,Lisa Brandt,jenniferross@example.net,CF,silver,2020-04-03
+C00019,Joseph Martinez,calebsmith@example.net,GT,Bronze ,06/03/2021
+C00020,Michael Brown,whiteheadmichele@example.org,SG,BRONZE,16/11/2019
+C00021,John Ryan,esanchez@example.com,ET,SILVER,10/01/2020
+C00022,Jeffrey Henderson,dshields@example.net,TD,Bronze ,2018-10-21
+C00023,Nicholas Mcbride,wrightjames@example.com,CU,gold,02/11/2018
+C00024,Joel Baxter,ramosmichelle@example.net,BZ,silver,03/08/2021
+C00025,Kimberly Smith,housemelinda@example.org,NE,GOLD,07/06/2018
+C00026,Dr. Steven Martin,gallowayjoseph@example.com,JO,GOLD,2022-02-17
+C00027,Monica Logan,smoore@example.org,BG,Gold,2021-08-07
+C00028,Amy Edwards,silvawesley@example.net,DJ,gold,2022-12-05
+C00029,Angela Lopez,leonardjoe@example.org,TN,Bronze,2018-06-26
+C00030,Amanda Miller,sarah35@example.org,IN,silver,04/02/2020
+C00031,Matthew Bryant,smithchristine@example.net,BZ,bronze,14/05/2021
+C00032,Katie Anderson,nicole35@example.com,DJ,SILVER,16/08/2018
+C00033,Michele Carr,contrerasangela@example.net,CA,SILVER,2021-09-23
+C00034,Steve Newton,josephjacobs@example.net,LV,BRONZE,2019-02-22
+C00035,Sarah Wagner,rebecca01@example.net,NO,Silver,2019-09-25
+C00036,Gavin Anderson,evan78@example.net,NP,GOLD,2020-05-09
+C00037,Benjamin Ware,amydavenport@example.net,TG,gold,2022-10-09
+C00038,Andrew Diaz,nolanjason@example.org,TL,Gold,2019-04-06
+C00039,Justin Baxter,sarayoung@example.org,EE,Gold,2018-11-16
+C00040,Norman Cook,vpham@example.org,IQ,Bronze ,04/07/2021
+C00041,Ashley Brennan,dwalker@example.com,KP,SILVER,2019-05-10
+C00042,Matthew Ross,michelle45@example.net,SE,Gold,09/12/2019
+C00043,Sarah Rivera,wilsontara@example.org,TT,GOLD,26/05/2021
+C00044,Kyle Reed,samuel81@example.com,TR,Bronze,2020-04-04
+C00045,Michael Smith,michaeljones@example.net,LS,BRONZE,14/08/2019
+C00046,Belinda Mccullough,elizabeth56@example.net,KE,SILVER,02/09/2020
+C00047,Jason Bentley,christinaturner@example.net,AD,Bronze,2022-09-19
+C00048,Jeffrey Carpenter,steven73@example.net,PY,GOLD,2020-08-02
+C00049,Diane Beck,clarence34@example.org,FJ,Bronze ,12/06/2019
+C00050,David Alvarez,gibsonolivia@example.net,FI,Silver ,2019-04-03
+C00051,David Douglas Jr.,osbornejeffery@example.net,SI,BRONZE,2021-04-07
+C00052,David Charles,danderson@example.net,SM,Bronze,2021-12-14
+C00053,Tiffany Vance,jrivas@example.com,DJ,GOLD,03/10/2022
+C00054,Paul Larsen,katie87@example.net,GY,Gold ,14/01/2022
+C00055,Micheal Young,luis81@example.org,CZ,Gold ,03/05/2020
+C00056,Christian Lewis,irussell@example.com,NI,Silver,20/12/2019
+C00057,Jason Stein,gateskathy@example.com,QA,Bronze ,2018-07-13
+C00058,Elizabeth Price,vmedina@example.net,UY,bronze,19/01/2018
+C00059,Don Tucker MD,dramsey@example.org,VU,Bronze,2019-11-17
+C00060,James Elliott,millerroy@example.com,EG,Gold,2022-07-18
+C00061,Garrett Gibson,kathleen64@example.com,ID,Gold ,06/06/2018
+C00062,Paul Williams,jeffrey10@example.org,HU,gold,2018-09-12
+C00063,Lisa Allen,kcaldwell@example.org,PT,Silver ,12/09/2019
+C00064,Carol Lawson,stricklandfrank@example.com,CD,Gold ,07/03/2020
+C00065,Eric Byrd,tsanders@example.org,BO,GOLD,03/12/2022
+C00066,Raymond Jefferson,hoganashlee@example.org,LY,gold,25/01/2020
+C00067,Jacob Hunter,alexander67@example.org,NR,gold,14/07/2022
+C00068,Sandra Zimmerman,hthompson@example.net,IR,GOLD,2021-01-30
+C00069,Julie Petersen,marcus31@example.com,PG,GOLD,2022-07-31
+C00070,Laura Barnett,anthony52@example.com,GH,BRONZE,2020-01-28
+C00071,Gina Beard,angela83@example.org,GY,Silver,2021-01-07
+C00072,Peter Vaughn DDS,bwest@example.org,KE,silver,2021-06-16
+C00073,David Beck,thomas85@example.com,CH,GOLD,20/11/2019
+C00074,Michael Nelson,jerry35@example.org,CH,Gold,2022-09-06
+C00075,Melissa Lee,lhill@example.net,UG,gold,2022-07-23
+C00076,Dr. Elizabeth Ward,alexis82@example.com,BD,GOLD,2020-05-29
+C00077,Melissa Martinez,agarcia@example.net,JM,Gold,2018-06-19
+C00078,Glen Sheppard,shelley71@example.org,MZ,BRONZE,29/12/2021
+C00079,Mark Brown,lisaavery@example.org,HU,bronze,08/03/2022
+C00080,Jennifer Carlson,kimberlyjames@example.com,KG,GOLD,04/01/2019
+C00081,Marc Lynch,mezajared@example.org,IN,silver,25/08/2021
+C00082,Christopher Jones,ortizhannah@example.com,JP,BRONZE,2018-09-10
+C00083,Michael Warner,ojones@example.com,YE,Silver,12/04/2018
+C00084,Joshua Holland,margaret10@example.org,KP,Bronze,2019-09-07
+C00085,Jessica Harrison,holly48@example.net,SA,gold,2022-11-04
+C00086,Andrew Reynolds,cassandra01@example.org,GQ,Bronze ,2021-09-22
+C00087,Alicia Hubbard,barbara27@example.net,CF,Bronze,23/11/2022
+C00088,Catherine Richards,ecosta@example.com,NE,Bronze ,2021-10-05
+C00089,Brian Martin,ssteele@example.net,MZ,Gold,2020-11-01
+C00090,Brandon King,cordovarichard@example.net,AD,Silver ,06/09/2022
+C00091,Anthony Stone,wgarrett@example.org,GA,Bronze,2022-08-13
+C00092,Tanya Kim,omartinez@example.net,GY,GOLD,09/04/2020
+C00093,Adam Russell,victoriadurham@example.com,CL,SILVER,2019-05-08
+C00094,Dr. Jordan Hill PhD,jsanchez@example.org,MV,Silver ,2019-04-24
+C00095,Katie Suarez,hillkristy@example.com,LV,Bronze,2019-08-16
+C00096,Aaron Barber,cgrimes@example.net,RO,bronze,27/04/2022
+C00097,Phillip Bennett,molly39@example.com,HT,silver,2020-12-08
+C00098,Patrick Thornton,qhughes@example.net,CZ,Gold,2021-06-30
+C00099,Beth Sanford,molly71@example.net,PH,Gold,2022-03-19
+C00100,Jennifer Pena,charlesharrington@example.com,LU,bronze,17/02/2018
+C00101,Sarah Phelps,ofinley@example.net,PS,gold,19/05/2021
+C00102,Amanda Jones,wendy16@example.org,PS,bronze,25/02/2022
+C00103,Michael Berger,nguyenbrian@example.com,MR,BRONZE,2018-11-09
+C00104,Joseph Knight,georgemiller@example.com,VN,Bronze,31/08/2021
+C00105,Mr. David Little MD,nolansteven@example.com,GD,Silver ,19/01/2020
+C00106,Jeremy Reed,danielle64@example.com,KI,Bronze,26/08/2022
+C00107,Dr. Ashley James MD,victoria40@example.net,MY,Gold ,2019-09-11
+C00108,Sean Osborne,lozanojulie@example.com,GT,Bronze ,2020-05-02
+C00109,Connor King,courtneyberger@example.net,BB,Silver,2020-12-30
+C00110,Amanda Diaz,christopherphillips@example.net,NI,bronze,17/08/2020
+C00111,Richard Walter,alyssa42@example.com,RO,Gold ,2019-06-30
+C00112,Gina Wilson,taylortammy@example.net,RS,Silver ,2020-07-05
+C00113,Regina Diaz,ismith@example.org,PH,Silver ,2021-05-19
+C00114,Megan Richards,daniel37@example.org,VN,gold,19/02/2021
+C00115,Leonard Holland,tblankenship@example.net,NE,gold,2022-10-11
+C00116,Tracy Torres,pwilson@example.net,CR,Bronze ,29/12/2018
+C00117,Michael Paul,umatthews@example.org,NI,GOLD,22/04/2021
+C00118,Lisa Crosby,antonio53@example.com,PA,Bronze,04/11/2018
+C00119,Ariana Jennings,bruce43@example.org,PH,Bronze,2020-01-04
+C00120,Maria Harper,williamsmatthew@example.org,TM,Gold ,12/10/2018
+C00121,Phillip Clark,lisahall@example.org,UG,Bronze ,30/09/2019
+C00122,William Huerta,lauren10@example.org,AL,BRONZE,09/01/2018
+C00123,Cynthia Morris,josephmartinez@example.com,SL,Silver,2021-01-18
+C00124,Karen Strickland,hayesjeffrey@example.net,BD,Bronze ,2018-12-20
+C00125,Mason Johnson,bboone@example.net,CD,gold,2022-06-09
+C00126,Jill Lam,charlene12@example.com,VU,bronze,2022-03-04
+C00127,Erika Vang,shawn96@example.org,ME,Bronze,2022-12-24
+C00128,Marilyn Mack,russellbeasley@example.com,LU,Bronze ,2018-12-22
+C00129,Nicholas Edwards,elizabeth52@example.net,PY,Silver ,2021-11-09
+C00130,Bradley Reynolds,lisa80@example.net,TJ,Bronze ,28/07/2018
+C00131,Bryan Gomez,uparrish@example.org,JO,Bronze,2022-10-12
+C00132,Kenneth Lewis,gwalker@example.com,TH,silver,28/08/2020
+C00133,Donald Perez,xbruce@example.net,VE,SILVER,15/02/2021
+C00134,Timothy Gallegos,anthony44@example.com,MG,SILVER,2022-09-26
+C00135,Charles Sandoval,thomascynthia@example.org,BW,Silver ,19/01/2018
+C00136,Jason Peterson,larry59@example.net,BS,Bronze,2022-07-07
+C00137,Paul Williams,nelsonebony@example.com,UZ,Silver,13/06/2018
+C00138,Daniel Hunt,russell49@example.com,SL,bronze,2021-10-05
+C00139,James Greene,harrissierra@example.org,IE,GOLD,16/08/2020
+C00140,Adam Burgess,davidpatel@example.org,SC,bronze,2020-06-18
+C00141,Renee Jones,grahamsteve@example.org,KW,Gold ,2022-10-02
+C00142,Jared Bowman,darius05@example.org,VN,Gold,2022-11-24
+C00143,Tamara Davis,sanchezbrianna@example.net,BR,bronze,30/11/2021
+C00144,Nichole Walker,charlesschultz@example.net,SE,bronze,14/05/2021
+C00145,Hannah Luna,joelthomas@example.org,EC,gold,2019-08-26
+C00146,Mary Thompson,kmarshall@example.net,PE,Gold,2019-04-20
+C00147,Victoria Morris,edward17@example.com,ZM,silver,2022-10-20
+C00148,Leslie Bell,collinsshannon@example.org,MN,Gold,29/07/2020
+C00149,Sean Wyatt,jford@example.net,BB,gold,2020-06-10
+C00150,Laura Lopez,dmason@example.com,CA,gold,2021-10-29
+C00151,Mrs. Maria Williams,hritter@example.net,VA,SILVER,03/12/2020
+C00152,Thomas Hughes,erika05@example.org,LS,Silver,09/05/2019
+C00153,Jasmine King,mathewaguilar@example.org,MG,GOLD,2018-10-21
+C00154,Melissa Myers,collinsnicholas@example.com,CN,BRONZE,21/08/2020
+C00155,Michael Romero,coxhenry@example.org,LV,Silver,2022-06-24
+C00156,Zachary Moore,megan18@example.net,SZ,GOLD,19/02/2022
+C00157,George Miranda,carlamoore@example.org,MD,SILVER,2022-06-24
+C00158,Amanda Diaz,tarabishop@example.net,PE,bronze,30/05/2019
+C00159,Emily Stokes,mmckee@example.com,GD,silver,29/12/2019
+C00160,Mrs. Diane Reyes,mburch@example.net,CU,Bronze,08/11/2022
+C00161,John Watson,dawsonzachary@example.org,JM,GOLD,2020-02-16
+C00162,Denise Whitehead,mariahdavis@example.org,PG,BRONZE,18/09/2018
+C00163,Jennifer Sanders,joe15@example.org,AT,Bronze,2020-12-22
+C00164,Sara Santos,devinmitchell@example.com,MC,SILVER,2020-09-17
+C00165,Julie Gilbert,smithjason@example.org,SY,Bronze ,08/03/2019
+C00166,Ricardo Young,williamsrobert@example.net,PK,GOLD,2022-06-28
+C00167,Taylor Carlson,chenbailey@example.net,CV,gold,15/07/2018
+C00168,Lucas Allen,qlopez@example.org,SL,GOLD,23/06/2020
+C00169,Joseph Romero,myerstheodore@example.net,MW,gold,2021-01-25
+C00170,Alan Kramer,john19@example.net,TW,BRONZE,05/03/2021
+C00171,Harold Morgan,mariacohen@example.net,QA,bronze,2020-10-30
+C00172,Amy Parsons,mjohnson@example.org,FR,Gold,21/07/2019
+C00173,Eric Sanders,wking@example.net,ET,SILVER,2018-05-11
+C00174,Richard Glenn,joshua56@example.com,CH,Gold,07/06/2020
+C00175,Jasmine Beltran,xholt@example.net,IQ,GOLD,2021-09-28
+C00176,Angela Morrison,amymorris@example.org,LR,BRONZE,2018-09-14
+C00177,Lance Simmons,cbell@example.net,MH,Gold ,2020-07-07
+C00178,William Gould,lambertrichard@example.net,AE,silver,13/09/2021
+C00179,Brenda Lawson,ejohnson@example.org,KH,Bronze ,13/05/2019
+C00180,Travis Johnson,erikarush@example.com,PA,silver,12/02/2021
+C00181,Kendra Sanders,john10@example.net,ER,BRONZE,27/08/2018
+C00182,Susan Wilson,jane39@example.com,MD,BRONZE,31/03/2022
+C00183,Chad Jones,rachelwallace@example.org,KZ,Bronze ,07/03/2022
+C00184,Michelle Pierce,patricia22@example.com,SE,Gold ,2020-09-19
+C00185,Curtis Taylor,jjohnson@example.net,MN,gold,28/11/2019
+C00186,Kristen Salazar,jonesraymond@example.net,WS,bronze,23/12/2021
+C00187,Patricia Morrow,martinezlogan@example.org,PG,Gold,2022-01-27
+C00188,Haley Humphrey,katrinaanderson@example.net,BG,gold,2021-12-18
+C00189,Elizabeth Martin,michaeleverett@example.com,BR,Silver,21/01/2019
+C00190,Tyler Hill,christina18@example.net,DO,Silver,2020-02-18
+C00191,Matthew Le,megan90@example.org,BR,BRONZE,10/12/2022
+C00192,Patricia Baker,katiebutler@example.net,AT,silver,2018-05-22
+C00193,Kimberly May,timothy64@example.com,BN,Silver,2022-03-28
+C00194,Jason Marshall,catherine55@example.net,LY,Gold,06/07/2018
+C00195,Jacob Hoffman,john14@example.com,HU,gold,2021-05-23
+C00196,Dylan Cruz,kwright@example.com,TR,Silver ,2019-03-14
+C00197,Christopher Ferrell,tjimenez@example.com,AO,Gold,29/08/2020
+C00198,Kathy Levy,brandywilliams@example.com,SA,Bronze,07/10/2018
+C00199,Adam Rodriguez,nicoleluna@example.com,MM,Bronze ,2022-01-02
+C00200,Kelly Lee,charles87@example.net,IT,Bronze,2018-05-21
+C00201,Brent Brooks,angela52@example.org,UY,GOLD,05/01/2019
+C00202,Andrew Williams,linda87@example.org,UZ,Silver,01/05/2022
+C00203,Timothy Flores,vewing@example.com,UA,Silver,21/05/2022
+C00204,Katrina Burns,thomas05@example.com,GQ,gold,2020-11-11
+C00205,Lauren Robles,carlsonjoseph@example.net,TT,silver,2018-12-07
+C00206,Anthony Castillo,rhernandez@example.org,AU,Silver,2022-11-30
+C00207,Ashley Smith,robert63@example.com,SC,Bronze ,2022-11-14
+C00208,Nancy Brown,aprilhoffman@example.net,QA,SILVER,05/01/2022
+C00209,Tyler Stevens,amy49@example.com,FI,Bronze,2022-06-21
+C00210,Edwin David,kellie37@example.com,QA,Bronze,05/02/2020
+C00211,Taylor Griffith,david86@example.com,LY,SILVER,19/12/2020
+C00212,Dwayne Klein,sandra47@example.org,FR,silver,01/04/2019
+C00213,Justin Nelson,gilbertbrenda@example.org,BE,SILVER,2022-08-01
+C00214,David Garcia,jennifer12@example.org,SY,Gold ,08/07/2022
+C00215,Timothy Johns,wsantos@example.com,LI,GOLD,06/05/2019
+C00216,Susan Davis,amandasharp@example.org,EC,bronze,05/06/2020
+C00217,Casey Gillespie,lfrench@example.net,JP,Silver,2021-07-22
+C00218,Keith Rodriguez,justin88@example.com,CR,GOLD,2018-04-27
+C00219,Corey Rodriguez,jessicawong@example.net,ER,bronze,16/04/2022
+C00220,Rachel Bradley,gregorychase@example.com,NP,Gold ,2018-02-13
+C00221,James Davis,thomasboyle@example.org,IL,SILVER,2022-05-20
+C00222,Paul Finley,brandi90@example.com,TD,silver,2021-04-06
+C00223,Amy Wilson,erik84@example.net,CL,Silver,22/01/2021
+C00224,Daniel Bernard,vhernandez@example.net,MR,silver,05/07/2020
+C00225,Susan Todd,kathleenbecker@example.net,BR,Gold ,2021-07-15
+C00226,Michael Miller,brownamy@example.net,FR,Bronze,21/06/2022
+C00227,Carmen Bond,nwilson@example.net,TV,Silver ,2022-11-15
+C00228,Jordan Stokes,aanderson@example.com,TM,BRONZE,27/02/2022
+C00229,Megan Parker,fosterlisa@example.net,GM,GOLD,29/06/2018
+C00230,Jeff Graves,michaelcesar@example.com,AU,gold,2022-12-02
+C00231,Randy Cannon,ybrooks@example.com,MT,GOLD,2020-06-10
+C00232,Victor Baxter,desireebailey@example.org,SO,GOLD,2021-03-13
+C00233,Monica Walker,avilatiffany@example.com,GQ,Gold ,06/05/2021
+C00234,James Hall,rreed@example.org,RS,Silver ,19/08/2022
+C00235,Matthew Mendez,allencarlos@example.net,AU,GOLD,17/12/2018
+C00236,Michele Williams,moralesjimmy@example.org,TW,Gold,19/10/2021
+C00237,Wyatt Young,barbara53@example.com,CV,Bronze ,2018-06-25
+C00238,Eric Brown,conniesimmons@example.com,BE,Gold ,08/06/2022
+C00239,Megan Floyd,heather62@example.com,MT,Gold,2020-12-06
+C00240,Kara Atkinson,meredith27@example.org,TJ,GOLD,2019-07-26
+C00241,Kristin Anderson,jonathanrivera@example.org,PG,silver,06/07/2021
+C00242,Nathaniel Lee,nicholas99@example.org,BN,SILVER,26/02/2021
+C00243,Laurie Powers,timothybooth@example.com,KI,Bronze ,2019-08-08
+C00244,Colton Figueroa,srocha@example.net,MA,GOLD,17/02/2018
+C00245,David Morris,oscar85@example.com,IL,Silver ,28/09/2019
+C00246,Kathleen Garcia,ugill@example.org,MN,Silver,22/01/2021
+C00247,Justin Walker,allentran@example.net,TT,Gold ,30/08/2020
+C00248,Craig Hall,victorpena@example.net,LU,Gold,2021-07-21
+C00249,Katherine Cummings,umurray@example.com,DO,gold,2020-03-10
+C00250,Katherine Stark,warrenmary@example.org,SV,SILVER,2019-03-11
+C00251,Jennifer Kirby,carloshernandez@example.org,SD,Bronze,31/05/2018
+C00252,Luke Estrada,bhopkins@example.org,SN,GOLD,17/11/2021
+C00253,Alan Bowen,andre62@example.org,BY,Bronze,2022-09-10
+C00254,Corey Fox,joseph61@example.com,NA,bronze,2022-06-18
+C00255,Wanda Perez,valdezmichele@example.org,BW,Bronze,2021-11-27
+C00256,Juan Brown,warnerchristopher@example.com,KH,silver,13/06/2021
+C00257,Shannon Davis,hallrachel@example.net,TN,Silver ,26/10/2020
+C00258,Thomas Cohen,rachel90@example.org,KW,Gold,2022-01-17
+C00259,Laurie Goodwin,thickman@example.org,TM,Gold ,2018-02-18
+C00260,Sarah Rhodes,patrick21@example.net,CH,Silver ,18/01/2020
+C00261,Jeffrey Roberson,cassie99@example.com,LR,Bronze,2020-12-10
+C00262,Rachel Hayes,michaelpugh@example.com,ER,gold,03/04/2018
+C00263,Angelica Montgomery,jennifermiller@example.org,MU,Bronze ,2022-12-26
+C00264,Emily Rodriguez,hahnsean@example.com,CA,Bronze,2019-04-25
+C00265,Jeffrey Hawkins,fgarcia@example.com,TG,Gold ,16/02/2019
+C00266,Rachel Shields,carterpaul@example.org,RS,Bronze,2018-10-17
+C00267,Vanessa Armstrong,ginajackson@example.com,KI,Bronze ,2022-10-05
+C00268,Arthur Hamilton MD,xpatton@example.com,HU,Bronze ,2020-04-13
+C00269,Christina Rodriguez,adam65@example.net,MU,GOLD,2022-03-21
+C00270,Jeffrey Colon,kevinmorrison@example.net,FR,Silver ,2020-10-20
+C00271,Vincent Novak,jessica79@example.org,LR,Gold ,2022-01-28
+C00272,Richard Diaz,brittanygardner@example.net,SY,Bronze ,2021-03-14
+C00273,Julia Erickson,ssalinas@example.org,NE,SILVER,2018-03-25
+C00274,Eric King,jennifermccormick@example.org,PE,BRONZE,01/04/2022
+C00275,Kimberly Mclean,ystephens@example.com,ME,Gold ,28/01/2022
+C00276,Suzanne Rodriguez,dianekelly@example.net,VA,Gold,2022-07-27
+C00277,Maria Lucas,tammy61@example.org,BZ,Silver ,2018-05-18
+C00278,Paul Grant,seanmyers@example.net,TZ,BRONZE,14/03/2020
+C00279,Zachary Webb,robert11@example.net,CV,BRONZE,04/04/2022
+C00280,Jesse Clark,gbailey@example.com,WS,SILVER,18/12/2020
+C00281,Eric Patrick,johnsonmatthew@example.org,GD,gold,2021-11-06
+C00282,Natalie Black,marksimmons@example.com,HT,Bronze,2019-05-26
+C00283,Charlotte Sandoval,njohnson@example.org,PG,Bronze ,2021-06-12
+C00284,Michael Harris,raylauren@example.net,ER,Gold,2021-08-27
+C00285,Jim Baker,orose@example.com,UG,Gold,10/02/2021
+C00286,Laurie Bailey,rwilliamson@example.net,KG,Bronze ,2021-04-22
+C00287,Emily Allen,whiteheather@example.net,MW,SILVER,2018-09-21
+C00288,Laura Henderson,sreid@example.net,EC,Gold ,2021-07-23
+C00289,Dylan Lopez,wharvey@example.org,RU,silver,21/09/2022
+C00290,James Hoffman,fortiz@example.com,KN,Bronze ,2019-03-01
+C00291,Bradley Johnson DDS,antonio38@example.com,DO,silver,10/10/2021
+C00292,Patricia Simpson,armstrongjoseph@example.net,MM,Gold ,2021-11-21
+C00293,Amanda Ball,veronicagarcia@example.net,GB,silver,12/08/2022
+C00294,Zachary Cole,michelle17@example.org,GW,SILVER,2020-02-09
+C00295,Leah Bell,imartin@example.org,GA,Silver ,15/10/2019
+C00296,Kim Carlson,mariopadilla@example.com,TO,Gold,04/07/2018
+C00297,Kayla Mccullough,taylorkaren@example.com,BH,Silver,10/04/2020
+C00298,Beth Cline,dustinmorris@example.org,PS,Silver ,11/05/2020
+C00299,Kenneth Adams MD,yjones@example.org,NA,silver,05/05/2021
+C00300,Melissa Wiley,uclements@example.net,AD,SILVER,21/05/2022
+C00301,Judy Beck,melissa86@example.org,NP,Gold ,17/10/2018
+C00302,Frank Campbell MD,ashleewashington@example.com,KZ,Gold,2019-10-21
+C00303,Mark Copeland,martinezmia@example.com,PH,Silver,31/05/2018
+C00304,Jessica Forbes DVM,erik41@example.net,ML,gold,03/01/2018
+C00305,Matthew Banks,sanderskevin@example.net,TW,silver,17/02/2020
+C00306,Brandon Davis,thomasanderson@example.org,SI,Bronze ,2019-12-29
+C00307,Michael Montoya,ebenson@example.org,GT,Bronze ,2021-10-14
+C00308,Robert Garcia,nicole26@example.org,BA,bronze,05/04/2021
+C00309,Justin Bishop,scottbowen@example.net,AE,Silver ,2019-03-20
+C00310,Lisa Ramos,christophergarcia@example.org,TZ,Silver,2019-04-16
+C00311,Jeffrey Moody,joshuamiller@example.net,US,SILVER,2021-04-08
+C00312,Melissa Abbott,jamie98@example.org,AE,Silver ,2020-06-04
+C00313,Anthony Hurst,troyrodriguez@example.com,DZ,Silver ,2021-05-02
+C00314,Vanessa Hatfield,david96@example.com,ST,silver,2018-08-09
+C00315,Tiffany Townsend,matthewsalexander@example.org,BB,silver,2019-06-21
+C00316,Jennifer Mitchell,zhenderson@example.org,DZ,gold,2018-07-07
+C00317,Brittany Miller,dixonjames@example.org,SO,Silver,2022-07-26
+C00318,Mark Davenport,collinssamuel@example.org,BG,gold,12/10/2020
+C00319,Jeffrey Chavez,parkerjudith@example.net,EC,gold,2020-01-30
+C00320,Chad Smith,hbenton@example.net,WS,Bronze,07/01/2019
+C00321,Cameron Norman,jessica10@example.com,NP,bronze,16/03/2020
+C00322,Deborah Proctor,crawfordwilliam@example.org,SB,Gold,2020-04-25
+C00323,Christopher Ayala,perezwilliam@example.org,AL,Bronze,2022-10-28
+C00324,Jack Mora,sarahmathews@example.net,LC,silver,30/01/2020
+C00325,David Moon,joseph19@example.com,CL,Gold,26/07/2021
+C00326,Amy Walker,finleycasey@example.com,JM,SILVER,09/04/2022
+C00327,Juan Smith,kellymueller@example.net,VU,Silver,23/08/2020
+C00328,Kevin Snyder,jessicapayne@example.org,CZ,gold,24/01/2020
+C00329,Allison Weaver,tapiaaaron@example.net,MT,BRONZE,20/01/2018
+C00330,Joseph Allen,jwoodward@example.net,IT,bronze,2020-08-13
+C00331,David Bruce,xhaynes@example.com,AE,Silver ,17/10/2018
+C00332,Kathy Walsh,kjones@example.org,NZ,Silver,2018-09-21
+C00333,Dean Edwards,vhaynes@example.com,LB,Bronze,11/02/2019
+C00334,Benjamin Harris,moorefrank@example.com,KW,BRONZE,07/11/2021
+C00335,Hunter Townsend,qparker@example.org,BW,gold,2021-06-16
+C00336,Elizabeth Bush,lewismelissa@example.org,BW,gold,05/05/2019
+C00337,Jennifer Williams,jorge20@example.com,PG,Silver ,2020-02-11
+C00338,Danielle Murray,davidbrown@example.org,CO,GOLD,24/09/2022
+C00339,Jacqueline Mccoy,aguilarjonathan@example.org,AO,BRONZE,2019-09-08
+C00340,Matthew Lamb,steinmaria@example.com,CM,Bronze ,20/07/2018
+C00341,Amber Glass,zunderwood@example.com,AT,silver,2018-05-13
+C00342,Carrie Lewis,joshuagriffin@example.org,AU,SILVER,04/04/2021
+C00343,Kathleen Andrade,rbrown@example.com,CU,Gold ,03/02/2020
+C00344,Stephen Fox,mayokimberly@example.com,QA,Gold,26/07/2021
+C00345,Hailey Cunningham,paul20@example.com,UG,Silver,19/08/2022
+C00346,Robert Campbell,xmoreno@example.net,HT,GOLD,12/11/2019
+C00347,Matthew Adams,gallagherstacie@example.net,MW,Gold ,11/05/2019
+C00348,Wendy Thompson,brittanydrake@example.net,MK,Silver ,2021-01-07
+C00349,Heather Bradley,annalopez@example.com,SR,GOLD,29/03/2018
+C00350,Andrew Brown,andrewwoods@example.com,VE,Silver,2020-08-18
+C00351,Gina Thompson,brian29@example.net,CV,BRONZE,18/09/2019
+C00352,Shannon Yu,janet69@example.org,LU,Silver,2018-12-11
+C00353,William Oconnor,fconner@example.net,LB,Silver ,26/07/2020
+C00354,Kristina Preston,jeffrey92@example.com,KP,silver,26/06/2019
+C00355,Nicholas Rush,xrosales@example.net,AU,SILVER,2020-07-04
+C00356,Tammy Ponce,daniellegarcia@example.com,CV,Bronze ,20/07/2019
+C00357,Cynthia Haas,daisymccarty@example.net,SV,BRONZE,25/10/2020
+C00358,Derek Wright,bellkristin@example.net,AD,SILVER,09/11/2020
+C00359,Nicholas Costa,ysnyder@example.com,ST,SILVER,2018-05-30
+C00360,John Shields,franciscojones@example.org,KE,gold,12/03/2021
+C00361,Trevor Jones,pamelamartin@example.org,SY,Gold,04/03/2018
+C00362,William Barry,reynoldsdesiree@example.net,NZ,Bronze,2018-10-17
+C00363,Gary Mccann,uterry@example.net,SR,Gold ,2019-05-04
+C00364,Elizabeth Davis,farmstrong@example.org,BF,Silver,2020-04-04
+C00365,Brandon Colon,bgonzalez@example.org,DO,Gold ,26/01/2021
+C00366,Kara Wilson,qruiz@example.com,BW,Gold ,2020-06-25
+C00367,Jacob James,seanbaker@example.com,IN,silver,18/08/2022
+C00368,Kristy Hernandez,millermaurice@example.net,NG,BRONZE,04/12/2019
+C00369,Sara Cardenas,rsheppard@example.com,TO,Bronze ,2019-12-08
+C00370,Blake Orr,shawrachel@example.net,GD,Gold,03/01/2020
+C00371,Peter Thompson,teresastokes@example.org,BB,SILVER,04/04/2019
+C00372,Michael Harris,maryscott@example.net,BJ,SILVER,2021-08-08
+C00373,James Nguyen,april09@example.net,SK,SILVER,2018-09-28
+C00374,Chase Knight,buckleyanna@example.org,JO,Silver ,2021-07-27
+C00375,Sherry Baker,earmstrong@example.org,EC,SILVER,2022-07-23
+C00376,Luke Becker,vwilliams@example.net,GW,Silver,2020-05-05
+C00377,Tammie Prince,morganlaura@example.com,IT,Bronze,03/06/2018
+C00378,Melinda Compton,dennismccann@example.com,LI,silver,2022-03-08
+C00379,Lisa Davis,alewis@example.net,RU,Gold,2020-04-17
+C00380,Samantha Robertson,cameronmckinney@example.com,CR,Bronze,24/05/2022
+C00381,Alyssa Lee,marywright@example.com,BE,Gold ,17/06/2022
+C00382,Denise Colon,hreid@example.net,AT,SILVER,24/01/2021
+C00383,Kirk Thompson,wmatthews@example.com,DK,Bronze,22/01/2020
+C00384,Melissa Mitchell,kwilliams@example.org,GN,Silver,2020-03-14
+C00385,Debra Ortiz,hancocktammy@example.net,AG,Silver,2019-12-01
+C00386,Maria Burke,walkercharlene@example.com,LC,silver,12/01/2022
+C00387,James Bailey,jeffery48@example.net,MY,Gold,05/05/2020
+C00388,Jorge Bates,anna99@example.com,KG,silver,21/12/2022
+C00389,Mr. Donald Nguyen,jose43@example.org,SI,BRONZE,2018-12-02
+C00390,Renee Lang,rguerrero@example.org,WS,Gold,17/01/2020
+C00391,Yolanda Green,vsullivan@example.org,TV,Gold ,21/03/2018
+C00392,Grace Reeves,qknox@example.com,SD,bronze,2022-11-13
+C00393,Sara Walter,kellyruiz@example.net,IL,GOLD,21/07/2020
+C00394,Catherine Frazier,destiny35@example.org,CH,Silver ,03/10/2022
+C00395,Stephen Watson,steven17@example.org,ZW,SILVER,2020-08-12
+C00396,Lisa Kennedy,vincentdillon@example.com,SM,bronze,2022-12-19
+C00397,Seth Hernandez,matthewbenitez@example.com,CV,Silver ,15/07/2020
+C00398,Catherine Miller,crystal25@example.net,BG,bronze,2020-09-09
+C00399,Daniel Ayala,tracygallagher@example.org,CO,Silver ,2018-01-15
+C00400,Jennifer Sanford,ismith@example.org,ES,bronze,2021-09-09
+C00103,Michael Berger,nguyenbrian@example.com,MR,BRONZE,2018-11-09
+C00349,Heather Bradley,annalopez@example.com,SR,GOLD,29/03/2018
+C00271,Vincent Novak,jessica79@example.org,LR,Gold ,2022-01-28
+C00107,Dr. Ashley James MD,victoria40@example.net,MY,Gold ,2019-09-11
+C00072,Peter Vaughn DDS,bwest@example.org,KE,silver,2021-06-16
+C00189,Elizabeth Martin,michaeleverett@example.com,BR,Silver,21/01/2019
+C00021,John Ryan,esanchez@example.com,ET,SILVER,10/01/2020
+C00103,Michael Berger,nguyenbrian@example.com,MR,BRONZE,2018-11-09
+C00122,William Huerta,lauren10@example.org,AL,BRONZE,09/01/2018
+C00215,Timothy Johns,wsantos@example.com,LI,GOLD,06/05/2019
+C00331,David Bruce,xhaynes@example.com,AE,Silver ,17/10/2018
+C00088,Catherine Richards,ecosta@example.com,NE,Bronze ,2021-10-05
+C00373,James Nguyen,april09@example.net,SK,SILVER,2018-09-28
+C00100,Jennifer Pena,charlesharrington@example.com,LU,bronze,17/02/2018
+C00360,John Shields,franciscojones@example.org,KE,gold,12/03/2021
+C00152,Thomas Hughes,erika05@example.org,LS,Silver,09/05/2019
+C00131,Bryan Gomez,uparrish@example.org,JO,Bronze,2022-10-12
+C00150,Laura Lopez,dmason@example.com,CA,gold,2021-10-29
+C00309,Justin Bishop,scottbowen@example.net,AE,Silver ,2019-03-20
+C00258,Thomas Cohen,rachel90@example.org,KW,Gold,2022-01-17
+C00344,Stephen Fox,mayokimberly@example.com,QA,Gold,26/07/2021
+C00294,Zachary Cole,michelle17@example.org,GW,SILVER,2020-02-09
+C00386,Maria Burke,walkercharlene@example.com,LC,silver,12/01/2022
+C00192,Patricia Baker,katiebutler@example.net,AT,silver,2018-05-22
+C00277,Maria Lucas,tammy61@example.org,BZ,Silver ,2018-05-18
+C00161,John Watson,dawsonzachary@example.org,JM,GOLD,2020-02-16
+C00314,Vanessa Hatfield,david96@example.com,ST,silver,2018-08-09
+C00022,Jeffrey Henderson,dshields@example.net,TD,Bronze ,2018-10-21
+C00253,Alan Bowen,andre62@example.org,BY,Bronze,2022-09-10
+C00236,Michele Williams,moralesjimmy@example.org,TW,Gold,19/10/2021
+C00345,Hailey Cunningham,paul20@example.com,UG,Silver,19/08/2022
+C00049,Diane Beck,clarence34@example.org,FJ,Bronze ,12/06/2019
